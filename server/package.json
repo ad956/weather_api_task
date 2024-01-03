@@ -1,4 +1,5 @@
 {
+  "name": "weather-api",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
